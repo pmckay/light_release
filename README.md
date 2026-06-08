@@ -1,1 +1,32 @@
 # light_release
+
+This repository contains all of the documentation, CAD files, and code necessary to create your own underwater light release system. 
+
+Parts list:
+ - 12 inch lenght of 3inch diameter PVC tubing
+    - https://www.amazon.com/CKVIHAV-Industrial-Greenhouse-Workshop-Furniture/dp/B0G7W7V1F6/ref=sr_1_1_sspa?crid=3GZPY0Y4DAHO6&dib=eyJ2IjoiMSJ9.AwxQdC8zw4KVwow9AbC1JCChhWvcRmMwxHXbsJAkRTHco_OO8uCwIAb_w2Oi1MEKiLBdpirStNXzwnsumaw2o3EakzxD2s7BewQqKtmwOMxYqdaG6GRTsJMlkw92p9ePEDbr2peSlyYyMNhX_YsyZbIebnUDaMvfAWXis3ZKnpuZEqlW9JtYgUXXbixEAK-UdcumbuM8QFNuFqUo-COUDdVlC1oWj11fVIRNdPeuaxE.GcCKSCzsPl5WRYJ5oyveYfZPUPL-rxEgQtpwZJ0Q0lU&dib_tag=se&keywords=3%2Binch%2Bpvc%2Bpipe&qid=1780948737&sprefix=3%2Binch%2Bpvc%2Bpipe%2Caps%2C277&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+ - flat cap for 3ich diameter PVC tubing
+     - https://www.amazon.com/Zernmiarder-Round-Plugs-Furniture-Fitting/dp/B0D548LVB5/ref=sr_1_5?crid=1DX52QH86J7VD&dib=eyJ2IjoiMSJ9.X_UIuTGvQb_pm_Y4ycT6HdptmEh0ERU3xUTZiQZjsf9xYoQccXYUK3KqDXzf8PIMfrHaVQjtY1JLmXkbLWz0XUEcFvmxBtjjGnRZkbXvxresjHh25CkiwDQyf_kRiruzuN-Vr7WE2znH9ALieLTjMBOEHFUMHKGeJqzXVmn_HMcWtiJ0acZR98kDvnhtf5IVXrNteSeDOr5JjfU1sAd2xHrSeOP7fOy9D7F_ESdpqVE.xNmf66V3Xjhj8teKk8Bvv2Swv-xnycf3ijRcXSi_QYw&dib_tag=se&keywords=3%2Binch%2Bpvc%2Bpipe%2Bflat%2Bcap&qid=1780948693&sprefix=3%2Binch%2Bpvc%2Bpipe%2Bflat%2Bcap%2Caps%2C175&sr=8-5&th=1
+ - 3inch PVC threaded male coupling
+    - https://www.amazon.com/Canplas-192873-Adapter-3-Inch-White/dp/B00CDSZ052/ref=sr_1_4?crid=12VOX1UTGG24Y&dib=eyJ2IjoiMSJ9.gSz_0l-2sUwgOW_rNDeWQ8whqWH-yDcIHPrWAbQUlADENHiAN8QhVItD48MlLQDMA-KKZ9_6_YDp8ZadkE1o4wFrOQMH9EPnKKflvOjYmRkedmVX_78pQNNBsCAGW4Xqgff2bwkIz583I6Tz32GFklYau10k7EKOhtgcY-7gk9eoFF7yM4XkLxUJb_T0dtEU3Uv2XM4GMUDoO1NIqVQg3KDidFrdBE60qo2AKacNX2I.e2cpTPrMson639BzLIR_48Fn7bbbEgRPLJ8UzIzjuM0&dib_tag=se&keywords=3+inch+pvc+pipe+male+thread&qid=1780948778&sprefix=3+inch+pvc+pipe+male+threa%2Caps%2C192&sr=8-4
+ - 3 inch PVC threaded female cap
+    - https://www.amazon.com/Spears-Pipe-Fitting-Schedule-Female/dp/B008I4ERPE/ref=sr_1_4?crid=1VGXIRR9OOFGH&dib=eyJ2IjoiMSJ9.8dF4uctz0x3gzS_HYQ-KMUqiiSTQJ26V6fg9KXn8yHtICaeQxoK5DlNLfdS1vJ-qjBcWbRIF3tqUmAEh9dkWLZuinpxk2tWWWR9YKgrZLVwNYG79DqnEM2xy746YBFm3fHPqH2UJQqEhHVqg-FfyKE4CbcxSRkd5xB_BwqXhPT3Gc352EB9XSiFvKsc_hBCCwcpUpwEPyddiDEApYeHK2cXeJj0kRq2gwTE9jJ7HBCw.rX0LYkQZclqUw4x3gzf9IpwFU7myFtPyMgT9lz7dobI&dib_tag=se&keywords=3%2Binch%2Bpvc%2Bpipe%2Bfemale%2Bcap&qid=1780948539&sprefix=3%2Binch%2Bpvc%2Bpipe%2Bfemale%2Bcap%2Caps%2C188&sr=8-4&th=1
+ - Marine Sealant
+    - https://www.amazon.com/3M-5200FC-Marine-Adhesive-Sealant/dp/B003E1ULRE/ref=sr_1_3?crid=HR0B1CJ0UO3B&dib=eyJ2IjoiMSJ9.cJV-o7prVWLzr9HEJoKM2lDbeUnewtyGT2kz3qox3STNbj3IAdIg__tD3qJYd9SjSPyXz8ak08zMVvQGf0RgawVv6A6gvtdrkInOsa9DMpKapX1c3_XeurjTU96lf9DBLZ85jHO4_y18qR92Lte3kmYgpU9c2U7M--mynkbWR_G_mYUuVqt5kXHB5mUBmJdkJfQLP0FemAgN6f04UVGi735dDv4chMtu5Uz-s7eft9M.-X7o3lxZJKSFQJoVlNnYcQelD1SFFh4dmY1ty0vSgzI&dib_tag=se&keywords=marine%2Bsealant&qid=1780948818&sprefix=marine%2Bsealan%2Caps%2C194&sr=8-3&th=1
+ - Raspberry Pi Pico W2 microcontroller
+    - https://www.adafruit.com/product/6315?gad_source=1&gad_campaignid=21079227318&gbraid=0AAAAADx9JvT6QSXKcJDUCkq6pImFJNqgg&gclid=Cj0KCQjw0JnRBhDJARIsALobnXboFWFcSVjsJ0QAW-7r6guV5ZV81iH_MREfFk7RYwGL_Fwk4CStelMaAmOeEALw_wcB
+ - TSL2591 light sensor
+    - https://www.adafruit.com/product/1980
+ - Pressure sensor
+    - https://www.sparkfun.com/sparkfun-pressure-sensor-breakout-ms5803-14ba.html
+ - DS3231 clock
+    - https://www.amazon.com/DS3231-AT24C32-Module-Memory-Replace/dp/B09LLMYBM1/ref=sr_1_3?adgrpid=194854428948&dib=eyJ2IjoiMSJ9.B3pytVqhKtLKLQq0Mg2F_DvdbOu3YwWOhb-gEvWf5f3nT4F3DhtRL1_xdgiCggavZzBgZteWuLHbe-j481cmizgmb2678ow_afIgD5oswM3MzlssXEGoyE9QwZvOx8Jg-RHg09CYxrvNUH6qOr3rNT9bFc-ATg3wcW5E8cidjiPMWf25v78vuIGxm-tsy8SbMYhssLzq6skzX6kQZihcnoxdlxq0--QAxgiHhGQMZk58Zq1mUQr7hcvHZvyxfsPclWnLIMcl-8w_9P8f-MUAVdsbXz2AXIDrz1tsZ_PON5I.DFwaCPElaDaDm7nE-J2RUlgY67PPVqBeR4D-GF3io4Y&dib_tag=se&hvadid=779668953041&hvdev=c&hvexpln=0&hvlocphy=9199035&hvnetw=g&hvocijid=8239552151620169269--&hvqmt=e&hvrand=8239552151620169269&hvtargid=kwd-303868395057&hydadcr=24328_13517622_2334752&keywords=ds3231%2Bclock&mcid=227eb9d7668a32b0a18c4e55349cc0f9&qid=1780949083&sr=8-3&th=1
+ - Electromagnet (200 ft spool of 24 AGW magnet wire)
+    - https://www.amazon.com/BNTECHGO-AWG-Magnet-Wire-Transformers/dp/B01NBM0MB5/ref=sr_1_1?crid=32RIYKL71TJYT&dib=eyJ2IjoiMSJ9.iGhDdvPtZk9KTbu8nmhpBTdaVqkirCxvP8Lw7wkUx5Tk3sRpBa-cUFA3vziMlWoHE3S9AkUB9jgtWjnR1-QkY0bLuoHiJgJYauxNegOR3-AOkFkygWhirX9MdMhiplFQLxQODI3TWWs5gLdZYucf2LYfOcmvjiwtKfXMzFmweVV8WXzbzBuCTBUDq6H2ALmxxD5VWlLzlmOKXMNpXx06le5qSLByDQBPjskNZr3Azdw.qZs70WcnUYT1dRpcu0_cYwhVqNYuv_UHb5TQdkTgQ8I&dib_tag=se&keywords=200%2Bft%2Bspool%2Bof%2B24%2Bawg%2Bmagnet%2Bwire&nsdOptOutParam=true&qid=1780949113&sprefix=200%2Bft%2Bspool%2Bof%2B24%2Bagw%2Bmagnet%2Bwire%2Caps%2C224&sr=8-1&th=1
+ - Relay 
+    - https://www.amazon.com/Channel-Optocoupler-Isolated-Control-Arduino/dp/B07XGZSYJV/ref=pd_sbs_d_sccl_1_26/143-5375553-0220424?pd_rd_w=LTfHf&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=8NV066GR6T1D50TNEF7Q&pd_rd_wg=2XXd2&pd_rd_r=0418851a-90ed-4d22-996b-eebf34d094a6&pd_rd_i=B07XGZSYJV&psc=1
+ - 12v Battery Pack (1.5v AA x 8)
+    - https://www.amazon.com/VWEICYY-Battery-Holder-housing-Leads/dp/B0DZWWJ7Z9/ref=sr_1_3?crid=1HPL8O1O5RDXZ&dib=eyJ2IjoiMSJ9.Z19I7Tp-yDnT61WeUXzNj7pTKw2ib4tEK-TBnbtYsOG7kL0-f_AA9POyhk25zb6wEZ7O01ocP_nV3ZchTsxu_ozmWb1MKPb7Wx9KmPEmBMO2L5vcD1kx14AdJBKgDBMELV3zBC5cYDHMSW4LLK8fRkgsez7FGfwRO3SHVibJGz8FNwDl0zmMIlN3r3k-BZZb40R8tzK71IE3qkg_b8JwSF2xNe1BaZFsCbIOrhUU_j_QeocOWjDGeUE7bBmm7JqXH_xUSKFaZ4JqYrOwuFV6y2-ELBaAsbgKFPRZCxCCZKs.vNSscUKn4U_IWXwMH-GomxcPQyW-JAtr1x-je5zHEKE&dib_tag=se&keywords=12v+battery+pack+double+a&qid=1780949347&sprefix=12+v+battery+pack+doub%2Caps%2C200&sr=8-3
+ - 12v to 5v Divider
+    - https://www.amazon.com/24V-5V-Converter-Regulator-Transformer/dp/B0BW3SRK77/ref=sr_1_14?crid=1BFH7I9P1CVFK&dib=eyJ2IjoiMSJ9.KdH8vMRvmymHNIoKOB8HnbGVbvcH-Mk_OAFSa7BcYgA5uS_KqMo756dRmDvr15Db8LDx5bpvIxyejg8MmMtJCm5qFVKa08AUXMIvVLG6QXVVSiHvK1-LSF87sGXxMu_TaeOjq9zgovcxh2vuZXnJY4cBjMYwqfnKhvMTu29IcCs-B0Zp3hayd0rGue_o9HzNxMgOoVHghe3uUIZyv_T-Tq9bz4vb5dMOZkPzoDBaoQw.RNAAI42DMlBK0B4Jcg4yo9RiovGkg0_CPWulmydTpZE&dib_tag=se&keywords=12v%2Bto%2B5v%2Bvoltage%2Bregulator&qid=1780949365&sprefix=12v%2B5v%2Bvolta%2Caps%2C189&sr=8-14&th=1
+
