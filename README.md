@@ -2,6 +2,9 @@
 
 This repository contains all of the documentation, CAD files, and code necessary to create your own underwater light release system. For brief overview of how to turn on, run, and retrieve data from the sensor, look to "LightRelease_UserManual" pdf. 
 
+
+<img width="3024" height="4032" alt="light_release" src="https://github.com/user-attachments/assets/2f438414-84fe-49c9-b284-69cf6b49bc55" />
+
 Parts list:
  - 12 inch lenght of 3inch diameter PVC tubing
     - https://www.amazon.com/CKVIHAV-Industrial-Greenhouse-Workshop-Furniture/dp/B0G7W7V1F6/ref=sr_1_1_sspa?crid=3GZPY0Y4DAHO6&dib=eyJ2IjoiMSJ9.AwxQdC8zw4KVwow9AbC1JCChhWvcRmMwxHXbsJAkRTHco_OO8uCwIAb_w2Oi1MEKiLBdpirStNXzwnsumaw2o3EakzxD2s7BewQqKtmwOMxYqdaG6GRTsJMlkw92p9ePEDbr2peSlyYyMNhX_YsyZbIebnUDaMvfAWXis3ZKnpuZEqlW9JtYgUXXbixEAK-UdcumbuM8QFNuFqUo-COUDdVlC1oWj11fVIRNdPeuaxE.GcCKSCzsPl5WRYJ5oyveYfZPUPL-rxEgQtpwZJ0Q0lU&dib_tag=se&keywords=3%2Binch%2Bpvc%2Bpipe&qid=1780948737&sprefix=3%2Binch%2Bpvc%2Bpipe%2Caps%2C277&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
