@@ -1,6 +1,6 @@
 # light_release
 
-This repository contains all of the documentation, CAD files, and code necessary to create your own underwater light release system. 
+This repository contains all of the documentation, CAD files, and code necessary to create your own underwater light release system. For brief overview of how to turn on, run, and retrieve data from the sensor, look to "LightRelease_UserManual" pdf. 
 
 Parts list:
  - 12 inch lenght of 3inch diameter PVC tubing
